@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://stadtpulse.com/sitemap.xml

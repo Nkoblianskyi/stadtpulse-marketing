@@ -6,7 +6,7 @@ import { Testimonials } from "@/components/testimonials"
 import { BlogPreview } from "@/components/blog-preview"
 import { CTASection } from "@/components/cta-section"
 import Script from "next/script"
-import { ContactForm } from "@/components/contact-form"
+
 
 export default function HomePage() {
   return (
